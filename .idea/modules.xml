@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FindApp.iml" filepath="$PROJECT_DIR$/.idea/FindApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M.UA.iml" filepath="$PROJECT_DIR$/M.UA.iml" />
     </modules>
   </component>
 </project>
