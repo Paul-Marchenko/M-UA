@@ -10,13 +10,15 @@ public class Login extends MainPage {
     private By emailField = By.xpath("//*[@name='l_']");
     private By paswordField = By.xpath("//*[@name='pw_']");
     private By signInButton = By.xpath("//*[@value='Войти']");
-    private By errorMessage = By.xpath("//*[@class='l-err']");
+    private By errorMessageForEmail = By.xpath("//div[contains(text(),'email ')]");
+    private By errorMessageForPassword = By.xpath("//*[.='Пароль указан неверно!'])");
 
 
     public Login(WebDriver driver, Logger log) {
         super(driver, log);
     }
     public void fillUpCredentials(String email, String password){
+        waitForVisibilityOf(emailField);
         type(email,emailField);
         type(password,paswordField);
 
@@ -29,9 +31,17 @@ public class Login extends MainPage {
         return new ProfilePage(driver,log);
     }
 
+    /*public String getLogInErrorMessage() {
+        waitForVisibilityOf(errorMessageForEmail, 10);
+        return getText(errorMessageForEmail);
+    }*/
 
-    public String getLogInErrorMessage() {
-        waitForVisibilityOf(errorMessage, 10);
-        return getText(errorMessage);
+    public String getErrorMessageForEmail() {
+
+        return errorMessage(errorMessageForEmail);
+    }
+    public String getErrorMessageForPassword() {
+
+        return errorMessage(errorMessageForPassword);
     }
 }
