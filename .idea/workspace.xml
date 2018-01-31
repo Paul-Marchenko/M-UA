@@ -2,110 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5225ee96-b9cf-4561-9902-8665c32a9bdc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FindApp.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_5.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_8_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/libraries/Maven__org_testng_testng_6_13_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_13_1.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/MUA.iml" afterPath="$PROJECT_DIR$/MUA.iml" />
-      <change beforePath="$PROJECT_DIR$/MUA/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/baseConfiges/BaseConditions.java" afterPath="$PROJECT_DIR$/src/main/java/com/baseConfiges/BaseConditions.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/baseConfiges/BasePageObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/baseConfiges/BasePageObject.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/baseConfiges/BrowserFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/baseConfiges/BrowserFactory.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/baseConfiges/CsvDataProvider.java" afterPath="$PROJECT_DIR$/src/main/java/com/baseConfiges/CsvDataProvider.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/baseConfiges/TestListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/baseConfiges/TestListener.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/pages/Login.java" afterPath="$PROJECT_DIR$/src/main/java/com/pages/Login.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/pages/MainPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/pages/MainPage.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/java/com/pages/ProfilePage.java" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ProfilePage.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/resources/chromedriver" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/resources/geckodriver.exe" afterPath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/test/java/com/tests/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/tests/LoginTest.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/test/java/com/tests/MainPageTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/tests/MainPageTest.java" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/test/resources.properties" afterPath="$PROJECT_DIR$/src/test/resources.properties" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/test/resources/test_data/LoginTest_wrongLogin.csv" afterPath="$PROJECT_DIR$/src/test/resources/test_data/LoginTest_wrongLogin.csv" />
-      <change beforePath="$PROJECT_DIR$/MUA/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/chromedriver" afterPath="$PROJECT_DIR$/target/classes/chromedriver" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/baseConfiges/BaseConditions.class" afterPath="$PROJECT_DIR$/target/classes/com/baseConfiges/BaseConditions.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/baseConfiges/BasePageObject.class" afterPath="$PROJECT_DIR$/target/classes/com/baseConfiges/BasePageObject.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/baseConfiges/BrowserFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/baseConfiges/BrowserFactory.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/baseConfiges/CsvDataProvider.class" afterPath="$PROJECT_DIR$/target/classes/com/baseConfiges/CsvDataProvider.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/baseConfiges/TestListener.class" afterPath="$PROJECT_DIR$/target/classes/com/baseConfiges/TestListener.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/pages/Login.class" afterPath="$PROJECT_DIR$/target/classes/com/pages/Login.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/pages/MainPage.class" afterPath="$PROJECT_DIR$/target/classes/com/pages/MainPage.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/com/pages/ProfilePage.class" afterPath="$PROJECT_DIR$/target/classes/com/pages/ProfilePage.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/geckodriver.exe" afterPath="$PROJECT_DIR$/target/classes/geckodriver.exe" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/MainPageSuite/LoginTest-CH.html" afterPath="$PROJECT_DIR$/target/surefire-reports/MainPageSuite/LoginTest-CH.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/MainPageSuite/LoginTest-CH.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/MainPageSuite/LoginTest-CH.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/MainPageSuite/LoginTest-FF.html" afterPath="$PROJECT_DIR$/target/surefire-reports/MainPageSuite/LoginTest-FF.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/MainPageSuite/LoginTest-FF.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/MainPageSuite/LoginTest-FF.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/bullet_point.png" afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/collapseall.gif" afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/failed.png" afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/junitreports/TEST-com.tests.LoginTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.tests.LoginTest.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/navigator-bullet.png" afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/LoginTest-CH.properties" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/LoginTest-CH.properties" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/LoginTest-FF.properties" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/LoginTest-FF.properties" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/classes.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/classes.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/groups.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/groups.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/index.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/main.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/main.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/methods-not-run.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/methods-not-run.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/methods.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/reporter-output.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/reporter-output.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/testng.xml.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/testng.xml.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/MainPageSuite/toc.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/MainPageSuite/toc.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/passed.png" afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/skipped.png" afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/testng-reports.css" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/testng-reports.js" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/surefire-reports/testng.css" afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/test-classes/com/tests/LoginTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/tests/LoginTest.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/test-classes/com/tests/MainPageTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/tests/MainPageTest.class" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/test-classes/test_data/LoginTest_wrongLogin.csv" afterPath="$PROJECT_DIR$/target/test-classes/test_data/LoginTest_wrongLogin.csv" />
-      <change beforePath="$PROJECT_DIR$/MUA/target/test-classes/testng.xml" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baseConfiges/BasePageObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/baseConfiges/BasePageObject.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/Login.java" afterPath="$PROJECT_DIR$/src/main/java/com/pages/Login.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tests/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/tests/LoginTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test_data/LoginTest_wrongLogin.csv" afterPath="$PROJECT_DIR$/src/test/resources/test_data/LoginTest_wrongLogin.csv" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,11 +18,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-486">
+            <state relative-caret-position="-582">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CsvDataProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/CsvDataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseConditions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/BaseConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tests/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pages/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasePageObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/BasePageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/BrowserFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTest_wrongLogin.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/test_data/LoginTest_wrongLogin.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,16 +128,28 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/baseConfiges/BasePageObject.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_data/LoginTest_wrongLogin.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pages/Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tests/LoginTest.java" />
+      </list>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-2" />
-    <option name="width" value="1920" />
-    <option name="height" value="1082" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="78" />
+    <option name="width" value="1857" />
+    <option name="height" value="918" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -211,6 +214,15 @@
               <item name="M-UA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M-UA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M-UA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -224,7 +236,30 @@
               <item name="M-UA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M-UA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M-UA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M-UA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M-UA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M-UA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M-UA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="test_data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,22 +437,55 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 12h 38m 13s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 12h 42m 32s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 12h 45m 23s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 12h 54m 43s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 12h 55m 59s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 13h 18m 15s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 13h 26m 56s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 13h 34m 49s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 13h 38m 22s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_pmarchenko_Documents_Autotests_M-UA_src_test_resources_testng_xml - 2018.01.31 at 13h 40m 27s.xml">
+      <configuration name="/home/pmarchenko/Documents/Autotests/M-UA/src/test/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
+    <frame x="22" y="78" width="1857" height="918" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45508102" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2782719" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24142313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14247599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1960243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -444,8 +512,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
+        <state relative-caret-position="-582">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/CsvDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/BaseConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_data/LoginTest_wrongLogin.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/baseConfiges/BasePageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pages/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
           <folding />
         </state>
       </provider>

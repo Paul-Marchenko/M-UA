@@ -67,5 +67,9 @@ public class BasePageObject<T> {
         return find(element).getText();
 
     }
+    public String errorMessage(By locator) {
+        waitForVisibilityOf(locator, 10);
+        return getText(locator);
+    }
 }
 
